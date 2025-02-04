@@ -1,0 +1,1 @@
+Este código verifica o nível de permissão de um usuário com base na string permission e no valor level. Se o usuário for um "Admin", ele recebe uma mensagem personalizada dependendo do nível. Se for um "Manager", ele pode ser instruído a contatar um administrador ou ser negado o acesso. Caso contrário, o acesso é recusado.
